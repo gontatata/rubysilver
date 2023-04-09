@@ -1,0 +1,5 @@
+arr = ["c", 2, "a", 3, 1, "b"]
+arr.sort
+p arr
+
+# rubyは異なるデータ型で比較できないためsortするとargumenterrorが出る
